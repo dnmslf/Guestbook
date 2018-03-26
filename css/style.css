@@ -1,0 +1,16 @@
+body{
+    background-color: #CCC;
+}
+
+#logo{
+    text-align: center;
+}
+
+#login{
+    background: #c5f7c5	;
+    text-align: center;
+}
+
+#user_control{
+    text-align: -webkit-center;
+}
