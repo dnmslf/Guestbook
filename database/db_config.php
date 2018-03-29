@@ -35,6 +35,7 @@ if($connect){
         $user_name = $find["name"];
         $user_surname = $find["surname"];
         $user_id = $find["id"];
+        $user_group = $find["user_group"];
     }
 
 }
